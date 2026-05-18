@@ -1,3 +1,52 @@
+/* parte neftali */ 
+/* nosotros */
+
+.contenedor-nosotros{
+display: flex;
+width: 100%;
+height: 70vh;
+color: rgb(0, 0, 0);
+border-radius:auto;
+background-color:rgba(123, 197, 226, 0.955);
+}
+
+.contenedor-info{
+width: 50vh;
+height: 30vh;
+color: rgb(0, 0, 0);
+border-radius:5%;
+background-color:rgb(6, 48, 164);
+justify-content: center;
+
+} 
+.contenedor-compu{
+    background-color: aliceblue;
+    width: 25%;
+    height: 40%
+    } 
+.contenedor-compu img{
+   width: 100%;
+    height: 100%;
+    border-radius:5%;
+}
+
+.contenedor-cuadritos{ 
+    width: 20%; 
+    height: 50%; 
+    background-color: azure;
+}
+.contenedor-minicuadros1{
+    height:50%;
+    width:80%; 
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.contenedor-cuadritos .contenedor-minicuadros1 .contenedor-perfil img{
+height: 40px;
+}
+
+
+
 /* parte de christian */
 body{
     background-color: aliceblue;
