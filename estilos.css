@@ -1,0 +1,52 @@
+/* parte de christian */
+body{
+    background-color: aliceblue;
+}
+.envio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    opacity: 0.8;
+    width: 100%;
+    height: 5vh;
+    margin: 0 auto;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+.barra_nav{
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    background-color: beige;
+
+}
+.barra_nav img{
+    box-sizing: content-box;
+    border-radius: 50%;
+    height: 7vh;
+}
+.barra_nav .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+}
+.barra_y_busqueda{
+    width: 100%;
+}
+.barra_y_busqueda .busqueda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+.barra_y_busqueda .pura_barra nav ol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 75px;
+    
+}
