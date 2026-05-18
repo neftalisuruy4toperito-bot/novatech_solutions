@@ -1,0 +1,34 @@
+/* parte neftali */ 
+/* nosotros */
+
+.contenedor-nosotros{
+    display: flex;
+ width: 100%;
+height: 70vh;
+color: rgb(0, 0, 0);
+border-radius:auto;
+background-color:rgba(123, 197, 226, 0.955);
+}
+
+.contenedor-info{
+ width: 50vh;
+height: 30vh;
+color: rgb(0, 0, 0);
+border-radius:5%;
+background-color:rgb(6, 48, 164);
+justify-content: center;
+
+} 
+.contenedor-compu{
+    background-color: aliceblue;
+    width: 10vh;
+    height: 10vh;
+    } 
+.contenedor-compu img{
+    height: 25vh;
+    border-radius:5%;
+}
+
+
+
+
